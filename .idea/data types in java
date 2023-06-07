@@ -1,0 +1,11 @@
+Primitive Data Types in Java
+1. Boolean - true/false
+2. Int - represents a whole number- 5, 8, 9
+3. Double - decimal number such as 3.4 gpa
+4. Char - represents a single letter or symbol eg - # , M, a
+
+Reference Data Types
+1. String - sequence of ordered characters such as "word"
+
+Use indexes:
+charAt to access character at specific location within the string
